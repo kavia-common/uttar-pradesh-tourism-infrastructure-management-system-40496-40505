@@ -1,0 +1,4 @@
+{
+    "command": "chmod +x startup.sh && sudo ./startup.sh &",
+    "working_directory": "/home/kavia/workspace/code-generation/uttar-pradesh-tourism-infrastructure-management-system-40496-40505/postgresql_database"
+}
